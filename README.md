@@ -1,3 +1,5 @@
+# “This project is tested with BrowserStack.”
+
 # react-native-simple-openvpn [![github stars][github-star-img]][stargazers-url]
 
 [![npm latest][version-img]][pkg-url]
